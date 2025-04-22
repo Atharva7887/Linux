@@ -1,57 +1,93 @@
-# Linux
-A curated collection of Linux fundamentals, essential commands, and guides for popular distributions like Ubuntu and Kali Linux. Ideal for beginners and reference purposes. Contributions welcome!
----
+# 🐧 Linux Knowledge Base
 
-# Linux Learning Hub 🐧  
-
-A repository dedicated to Linux basics, command-line essentials, and distribution-specific guides (Ubuntu, Kali Linux, and more). Perfect for beginners and quick reference.  
-
-## 📂 **Contents**  
-1. **Basics**  
-   - [Introduction to Linux](/basics/intro.md)  
-   - [File System Hierarchy](/basics/file-system.md)  
-   - [Essential Commands](/basics/commands.md)  
-
-2. **Ubuntu**  
-   - [Installation Guide](/ubuntu/setup.md)  
-   - [Common Tasks & Tips](/ubuntu/tips.md)  
-
-3. **Kali Linux**  
-   - [What is Kali Linux?](/kali-linux/intro.md)  
-   - [Ethical Hacking Tools](/kali-linux/tools.md)  
-
-4. **Cheat Sheets**  
-   - [Command Quick Reference](/cheatsheets/commands.md)  
-
-## 🚀 **How to Use**  
-- Clone the repo:  
-  ```bash
-  git clone https://github.com/your-username/Linux.git
+Welcome to the **Linux Repository** — your personal hub for everything Linux!  
+Whether you're just starting out or diving into ethical hacking with Kali Linux, this repo provides structured and simplified guides to help you master the Linux ecosystem.
 
 ---
 
-Browse markdown files locally or on GitHub.
+## 📁 Repository Structure
 
-🤝 Contributing
-Found an error or want to add something?
-
-Open an Issue to suggest changes.
-
-Submit a Pull Request with your updates.
-See CONTRIBUTING.md for guidelines.
-
-📜 License
-This project is licensed under MIT License (free to use/modify).
-
-🐧 Happy Linux Learning!
-
+Linux/
+├── README.md
+├── Ubuntu/
+│   ├── basic-commands.md
+│   ├── system-management.md
+│   └── package-management.md
+├── Kali-Linux/
+│   ├── intro.md
+│   ├── tools-overview.md
+│   └── setup-guide.md
+├── Shell-Scripting/
+│   ├── basics.md
+│   └── examples/
+├── Resources/
+│   └── useful-links.md
 
 ---
 
-### **Key Features of This README**:  
-- **Clean structure** with emojis and markdown formatting.  
-- **Internal links** to guide users to specific sections.  
-- **Contribution-friendly** tone to encourage collaboration.  
-- **Mobile-friendly** (renders well on GitHub’s interface).  
+## 📦 Ubuntu
 
-Let me know if you’d like to add a FAQ section or a "Star History" badge! 🌟
+Linux for general-purpose computing.
+
+- **[Basic Commands](Ubuntu/basic-commands.md)**  
+  Learn essential terminal commands — navigation, file handling, permissions, etc.
+
+- **[System Management](Ubuntu/system-management.md)**  
+  Manage users, monitor processes, check memory usage, and more.
+
+- **[Package Management](Ubuntu/package-management.md)**  
+  Work with APT, dpkg, snap, and Flatpak for software installation and updates.
+
+---
+
+## 💣 Kali Linux
+
+Linux tailored for security professionals.
+
+- **[Introduction](Kali-Linux/intro.md)**  
+  Understand what Kali Linux is and where it's used.
+
+- **[Popular Tools Overview](Kali-Linux/tools-overview.md)**  
+  Learn about tools like Nmap, Metasploit, Wireshark, Burp Suite, and more.
+
+- **[Setup Guide](Kali-Linux/setup-guide.md)**  
+  Step-by-step instructions to install Kali Linux on VirtualBox or dual boot.
+
+---
+
+## 🧠 Shell Scripting
+
+Automate your Linux tasks with the power of scripts.
+
+- **[Basics](Shell-Scripting/basics.md)**  
+  Learn about variables, loops, conditionals, and input/output.
+
+- **[Examples](Shell-Scripting/examples/)**  
+  Ready-to-use script snippets for common tasks.
+
+---
+
+## 🔗 Resources
+
+Curated content from across the web to help you learn faster.
+
+- **[Useful Links](Resources/useful-links.md)**  
+  Cheat sheets, video tutorials, books, and websites worth bookmarking.
+
+---
+
+## 🙌 Contributions
+
+If you have suggestions, improvements, or want to add new sections — feel free to contribute!
+
+```
+
+bash
+git clone https://github.com/your-username/Linux.git
+
+```
+
+💬 Let's Connect
+📧 Email: athshirke2002@gmail.com
+🔗 LinkedIn: 
+💻 GitHub
